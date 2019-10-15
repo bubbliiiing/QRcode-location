@@ -7,9 +7,9 @@ Please configure the opencv environment after cloning
 The program can locate the QRcode in a picture. Its main principle is using binarization and the opencv-contour-selection function to find the position of QRcode in the picture, and then rectify the position of the qrcode by using vector knowledge through triangles.
 ## 处理过程
 QRcode_before  
-![QRcode_before](/img/QRcode_before.jpg) 
+![QRcode_before](/img/QRcode_before.jpg)  
 threshold  
-![threshold](/img/threshold.jpg) 
+![threshold](/img/threshold.jpg)  
 canvas  
 ![canvas](/img/canvas.jpg)  
 QRcode  
