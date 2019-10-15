@@ -1,0 +1,40 @@
+﻿  QRcode.cpp
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(186): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(197): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(203): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(380): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+          and
+          [
+              _Tp=int
+          ]
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(391): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+c:\users\administrator\desktop\qrcode_location\qrcode_location\qrcode_location\qrcode.cpp(397): warning C4244: “=”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+  QRcode_Location.vcxproj -> C:\Users\Administrator\Desktop\QRcode_Location\QRcode_Location\x64\Debug\QRcode_Location.exe
